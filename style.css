@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(204, 245, 92);
+    color: rgb(13, 49, 116);
+}
+a:hover{
+    border: solid red;
+}
